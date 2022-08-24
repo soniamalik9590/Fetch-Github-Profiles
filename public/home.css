@@ -1,0 +1,25 @@
+body{
+    background-color:darkorchid;
+}
+.inp{
+    margin-left:27em;
+    margin-top:2em;
+    margin-bottom: 2em;
+}
+input{
+    width:25em;
+    border-radius: 1em;
+    height:3em;
+}
+button{
+    height:3em;
+}
+.show{
+    margin:auto;
+    background-color:rgb(244, 209, 157);
+    width:37em;
+    height:20em;
+    border-radius: 2em;
+    padding-left: 7em;
+    padding-top: 3em;
+}
